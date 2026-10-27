@@ -3,7 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Patrícia+Alcântara;I'm+33+years+old;I'm+from+Brazil;I+Graduated+Information+Management;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-[![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=paty3090&bg_color=0d1117&color=ff91a4&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/paty3090)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paty3090)
+
 
 
 
